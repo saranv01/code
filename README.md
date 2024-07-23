@@ -35,11 +35,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
+## Sorting
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
