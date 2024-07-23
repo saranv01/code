@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/saranv01/code/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
