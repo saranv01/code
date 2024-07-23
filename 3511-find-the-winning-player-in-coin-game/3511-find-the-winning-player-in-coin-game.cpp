@@ -1,13 +1,13 @@
 class Solution {
 public:
     string losingPlayer(int x, int y) {
-        int cnt=0;
+        bool flag=true;
         while(x>0&&y>=4){
         x=x-1;
         y=y-4;
-        cnt++;
+        flag=!flag;
         }
-        if(cnt%2==0)return "Bob";
+        if(flag)return "Bob";
         return "Alice";
 
         
