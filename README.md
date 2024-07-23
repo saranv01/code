@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/saranv01/code/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/saranv01/code/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/saranv01/code/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
