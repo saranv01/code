@@ -19,7 +19,7 @@ public:
 
         vector<int>ans(nums.size());
 
-int j=0;
+        int j=0;
         for(int i=0;i<vec.size();i++){
             while(mp[vec[i].first]--){
                    ans[j]=vec[i].first;
