@@ -11,7 +11,6 @@ public:
           if(nums.size()>k){
             for(int i=k;i<=nums.size();i++){
                 total+=nums[i]-nums[i-k];
-                cout<<total<<endl;
                 avg=max(avg,(double)total/k);
             }
           }
