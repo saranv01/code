@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
