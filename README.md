@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
+| [0643-maximum-average-subarray-i](https://github.com/saranv01/code/tree/master/0643-maximum-average-subarray-i) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/saranv01/code/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
 | ------- |
