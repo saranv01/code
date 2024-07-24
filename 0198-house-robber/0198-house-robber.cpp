@@ -3,15 +3,21 @@ public:
 
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<int>Dp(n,-1);
-        Dp[0]=nums[0];
-        if(n>1)
-        Dp[1]=max(nums[1],Dp[0]);
+        if(n==1) return nums[0];
+
+        int prevOne=nums[0];
+        int prevTwo=max(nums[1],prevOne);
+
+        int current=max(prevOne,prevTwo);
+
+      
         for(int i=2;i<n;i++){
-            Dp[i]=max(Dp[i-2]+nums[i],Dp[i-1]);
+            current=max(prevOne+nums[i],prevTwo);
+            prevOne=prevTwo;
+            prevTwo=current;
         }
 
-       return Dp[n-1];
+       return current;
 
 
     }
