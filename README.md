@@ -54,10 +54,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saranv01/code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saranv01/code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,4 +130,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
