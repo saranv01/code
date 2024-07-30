@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/saranv01/code/tree/master/0334-increasing-triplet-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
