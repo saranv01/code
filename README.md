@@ -47,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
@@ -70,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/saranv01/code/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
