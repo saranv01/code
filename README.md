@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranv01/code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saranv01/code/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
@@ -53,6 +54,7 @@
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
@@ -162,6 +164,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
