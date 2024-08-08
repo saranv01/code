@@ -44,6 +44,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/saranv01/code/tree/master/0643-maximum-average-subarray-i) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saranv01/code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/saranv01/code/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 | [1185-find-in-mountain-array](https://github.com/saranv01/code/tree/master/1185-find-in-mountain-array) |
@@ -178,6 +179,7 @@
 | [0162-find-peak-element](https://github.com/saranv01/code/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saranv01/code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saranv01/code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/saranv01/code/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/saranv01/code/tree/master/1185-find-in-mountain-array) |
 ## Number Theory
 |  |
