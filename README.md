@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/saranv01/code/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranv01/code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saranv01/code/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
@@ -121,6 +122,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/saranv01/code/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/saranv01/code/tree/master/1185-find-in-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/saranv01/code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
