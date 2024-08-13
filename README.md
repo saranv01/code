@@ -52,6 +52,7 @@
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saranv01/code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/saranv01/code/tree/master/1185-find-in-mountain-array) |
+| [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
+| [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,4 +205,5 @@
 | [0039-combination-sum](https://github.com/saranv01/code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saranv01/code/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/saranv01/code/tree/master/0078-subsets) |
+| [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
