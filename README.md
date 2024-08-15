@@ -110,6 +110,7 @@
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
+| [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,4 +209,8 @@
 | [0051-n-queens](https://github.com/saranv01/code/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/saranv01/code/tree/master/0078-subsets) |
 | [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
