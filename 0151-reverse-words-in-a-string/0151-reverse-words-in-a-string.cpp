@@ -9,7 +9,6 @@ public:
             }
 
             if(s[i]==' '&&temp.size()>0){
-                while(s[i+1]==' ')i++;
                 ss=temp+" "+ss;
                 temp="";
 
