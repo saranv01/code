@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/saranv01/code/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saranv01/code/tree/master/0151-reverse-words-in-a-string) |
