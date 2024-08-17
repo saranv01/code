@@ -98,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saranv01/code/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/saranv01/code/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/saranv01/code/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
@@ -187,6 +189,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saranv01/code/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saranv01/code/tree/master/0151-reverse-words-in-a-string) |
 ## Matrix
