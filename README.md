@@ -66,6 +66,7 @@
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/saranv01/code/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saranv01/code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/saranv01/code/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@
 | [0005-longest-palindromic-substring](https://github.com/saranv01/code/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
@@ -155,6 +158,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 ## Merge Sort
