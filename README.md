@@ -96,6 +96,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/saranv01/code/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/saranv01/code/tree/master/0650-2-keys-keyboard) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saranv01/code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saranv01/code/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/saranv01/code/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/saranv01/code/tree/master/0476-number-complement) |
 ## Sorting
@@ -252,4 +254,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saranv01/code/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/saranv01/code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
