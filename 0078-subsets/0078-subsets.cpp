@@ -1,24 +1,19 @@
 class Solution {
 public:
-    void genSubset(vector<int>&nums,int n,int ind, vector<int>&ds,vector<vector<int>>&ans){
-
-        if(ind==n){
-            ans.push_back(ds);
+    void solve(vector<int>&nums,vector<int>&temp,vector<vector<int>>&ds,int pos){
+        if(pos==nums.size()){
+            ds.push_back(temp);
             return;
         }
-
-        ds.push_back(nums[ind]);
-        genSubset(nums,n,ind+1,ds,ans);
-        ds.pop_back();
-        genSubset(nums,n,ind+1,ds,ans);
-
+        temp.push_back(nums[pos]);
+        solve(nums,temp,ds,pos+1);
+        temp.pop_back();
+        solve(nums,temp,ds,pos+1);
     }
-
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n =nums.size();
-        vector<int>ds;
-        vector<vector<int>>ans;
-        genSubset(nums,n,0,ds,ans);
-        return ans;
+        vector<vector<int>> ds;
+        vector<int> temp;
+        solve(nums,temp, ds,0);
+        return ds;
     }
 };
