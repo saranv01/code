@@ -252,12 +252,14 @@
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saranv01/code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/saranv01/code/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saranv01/code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saranv01/code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saranv01/code/tree/master/0237-delete-node-in-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/saranv01/code/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saranv01/code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -265,4 +267,9 @@
 | [0021-merge-two-sorted-lists](https://github.com/saranv01/code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saranv01/code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saranv01/code/tree/master/0231-power-of-two) |
+| [2573-remove-nodes-from-linked-list](https://github.com/saranv01/code/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/saranv01/code/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
