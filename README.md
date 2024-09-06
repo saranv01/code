@@ -59,6 +59,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saranv01/code/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saranv01/code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saranv01/code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/saranv01/code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saranv01/code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saranv01/code/tree/master/0237-delete-node-in-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saranv01/code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
