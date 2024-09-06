@@ -15,7 +15,6 @@ class Solution {
         while(head->next==nullptr||head==nullptr){
             if(head->next==nullptr)
             maxi=head->val;
-            cout<<maxi<<" ";
             return head;
         }
         ListNode* temp=reverseAndRemove(head->next);
@@ -24,7 +23,6 @@ class Solution {
         head->next=temp;
         return head;
         }
-        cout<<maxi<<" ";
         return temp;
     }
 public:
