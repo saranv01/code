@@ -82,11 +82,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saranv01/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saranv01/code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saranv01/code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saranv01/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saranv01/code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saranv01/code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
@@ -99,6 +101,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saranv01/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saranv01/code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saranv01/code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Math
@@ -264,6 +267,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saranv01/code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/saranv01/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saranv01/code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/saranv01/code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saranv01/code/tree/master/0234-palindrome-linked-list) |
