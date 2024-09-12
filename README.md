@@ -48,6 +48,7 @@
 | [0496-next-greater-element-i](https://github.com/saranv01/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saranv01/code/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saranv01/code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/saranv01/code/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/saranv01/code/tree/master/0735-asteroid-collision) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saranv01/code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saranv01/code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
@@ -132,6 +134,7 @@
 | [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/saranv01/code/tree/master/0650-2-keys-keyboard) |
 ## Memoization
 |  |
@@ -243,6 +246,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 | [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
