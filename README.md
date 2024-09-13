@@ -102,6 +102,7 @@
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Greedy
 |  |
 | ------- |
