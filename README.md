@@ -109,6 +109,7 @@
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
+| [1300-critical-connections-in-a-network](https://github.com/saranv01/code/tree/master/1300-critical-connections-in-a-network) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
@@ -260,6 +261,7 @@
 | [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
+| [1300-critical-connections-in-a-network](https://github.com/saranv01/code/tree/master/1300-critical-connections-in-a-network) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Greedy
 |  |
@@ -369,4 +371,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/saranv01/code/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
