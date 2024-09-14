@@ -105,6 +105,7 @@
 | [0210-course-schedule-ii](https://github.com/saranv01/code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
@@ -121,6 +122,7 @@
 | [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -252,6 +255,7 @@
 | [0207-course-schedule](https://github.com/saranv01/code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saranv01/code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -359,4 +363,8 @@
 | [0207-course-schedule](https://github.com/saranv01/code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saranv01/code/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
