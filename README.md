@@ -146,6 +146,7 @@
 | [0650-2-keys-keyboard](https://github.com/saranv01/code/tree/master/0650-2-keys-keyboard) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saranv01/code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/saranv01/code/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3567-convert-date-to-binary](https://github.com/saranv01/code/tree/master/3567-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saranv01/code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3379-score-of-a-string](https://github.com/saranv01/code/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/saranv01/code/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
 | ------- |
