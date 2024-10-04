@@ -70,6 +70,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saranv01/code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saranv01/code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -87,6 +88,7 @@
 | [0496-next-greater-element-i](https://github.com/saranv01/code/tree/master/0496-next-greater-element-i) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saranv01/code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
@@ -225,6 +227,7 @@
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -292,6 +295,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/saranv01/code/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/saranv01/code/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saranv01/code/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
