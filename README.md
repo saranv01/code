@@ -87,6 +87,7 @@
 | [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/saranv01/code/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/saranv01/code/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -190,6 +191,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/saranv01/code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saranv01/code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/saranv01/code/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saranv01/code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saranv01/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/saranv01/code/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/saranv01/code/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
@@ -296,6 +299,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/saranv01/code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/saranv01/code/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/saranv01/code/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/saranv01/code/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/saranv01/code/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
