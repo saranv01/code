@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/saranv01/code/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/saranv01/code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/saranv01/code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saranv01/code/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/saranv01/code/tree/master/0051-n-queens) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saranv01/code/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/saranv01/code/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/saranv01/code/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/saranv01/code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/saranv01/code/tree/master/0151-reverse-words-in-a-string) |
