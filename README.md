@@ -56,6 +56,7 @@
 | [0162-find-peak-element](https://github.com/saranv01/code/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/saranv01/code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saranv01/code/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/saranv01/code/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/saranv01/code/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/saranv01/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saranv01/code/tree/master/0503-next-greater-element-ii) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0078-subsets](https://github.com/saranv01/code/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/saranv01/code/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/saranv01/code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/saranv01/code/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/saranv01/code/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -316,6 +318,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/saranv01/code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/saranv01/code/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/saranv01/code/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/saranv01/code/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/saranv01/code/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/saranv01/code/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -338,6 +341,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranv01/code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saranv01/code/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/saranv01/code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saranv01/code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saranv01/code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/saranv01/code/tree/master/0907-koko-eating-bananas) |
