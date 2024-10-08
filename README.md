@@ -60,6 +60,7 @@
 | [0200-number-of-islands](https://github.com/saranv01/code/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/saranv01/code/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/saranv01/code/tree/master/0334-increasing-triplet-subsequence) |
+| [0493-reverse-pairs](https://github.com/saranv01/code/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/saranv01/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saranv01/code/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saranv01/code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -262,6 +263,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/saranv01/code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saranv01/code/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/saranv01/code/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -274,6 +276,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/saranv01/code/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -355,6 +358,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranv01/code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saranv01/code/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/saranv01/code/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/saranv01/code/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saranv01/code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saranv01/code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/saranv01/code/tree/master/0907-koko-eating-bananas) |
@@ -444,4 +448,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saranv01/code/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saranv01/code/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saranv01/code/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saranv01/code/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
