@@ -52,6 +52,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranv01/code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saranv01/code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saranv01/code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/saranv01/code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saranv01/code/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranv01/code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saranv01/code/tree/master/0162-find-peak-element) |
@@ -94,6 +95,7 @@
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/saranv01/code/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/saranv01/code/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/saranv01/code/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/saranv01/code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saranv01/code/tree/master/0229-majority-element-ii) |
@@ -303,6 +305,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saranv01/code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saranv01/code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saranv01/code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
