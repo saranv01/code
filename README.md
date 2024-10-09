@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saranv01/code/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/saranv01/code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/saranv01/code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/saranv01/code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/saranv01/code/tree/master/0039-combination-sum) |
@@ -254,6 +255,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saranv01/code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/saranv01/code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saranv01/code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saranv01/code/tree/master/0088-merge-sorted-array) |
@@ -335,6 +337,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saranv01/code/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/saranv01/code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/saranv01/code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/saranv01/code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saranv01/code/tree/master/0075-sort-colors) |
