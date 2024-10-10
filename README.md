@@ -75,6 +75,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/saranv01/code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/saranv01/code/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/saranv01/code/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saranv01/code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
@@ -412,6 +413,7 @@
 | [0503-next-greater-element-ii](https://github.com/saranv01/code/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/saranv01/code/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saranv01/code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/saranv01/code/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saranv01/code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saranv01/code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -447,6 +449,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saranv01/code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saranv01/code/tree/master/0503-next-greater-element-ii) |
+| [1002-maximum-width-ramp](https://github.com/saranv01/code/tree/master/1002-maximum-width-ramp) |
 | [2573-remove-nodes-from-linked-list](https://github.com/saranv01/code/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
