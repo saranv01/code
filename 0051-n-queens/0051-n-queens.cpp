@@ -1,47 +1,36 @@
 class Solution {
-public:
-    bool isValid(int row,int col,vector<string>&board){
-        if(col>=board.size())return false;
-        int r=row;
-        int c=col;
-        while(row>=0&&col>=0){
-            if(board[row][col]=='Q')return false;
-            row--;
-            col--;
+private:
+    void solve(int col,vector<vector<string>>&ans, vector<string>&temp,vector<int>&uD, vector<int>&lD, vector<int>&left, int n){
+        if(col==n){
+            ans.push_back(temp);
         }
+        for(int row=0;row<n;row++){
+            if(left[row]==0&&uD[row+col]==0&&lD[col-row+n-1]==0){
+                left[row]=1;
+                uD[row+col]=1;
+                lD[col-row+n-1]=1;
+                temp[row][col]='Q';
+                solve(col+1,ans,temp,uD,lD,left,n);
+                left[row]=0;
+                uD[row+col]=0;
+                lD[col-row+n-1]=0;
+                temp[row][col]='.';                
 
-        row=r;
-        col=c;
-        while(row<board.size()&&col>=0){
-            if(board[row][col]=='Q')return false;
-            row++;
-            col--;
-        }
-        row=r;
-        col=c;
-        while(col>=0){
-            if(board[row][col]=='Q') return false;
-            col--;
-        }
-        return true;
-    }
-    void solve(int col,vector<string>&board,vector<vector<string>>&ans){
-        if(col==board.size()){
-            ans.push_back(board);
-        }
-        for(int row=0;row<board.size();row++){
-            if(isValid(row,col,board)){
-                board[row][col]='Q';
-                solve(col+1,board,ans);
-                board[row][col]='.';
             }
         }
     }
+public:
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> ans;
+        vector<vector<string>>ans;
+        vector<int>upperDiagonal(n*2-1,0);
+        vector<int>lowerDiagonal(n*2-1,0);
+        vector<int>left(n,0);
         string s(n,'.');
-        vector<string>board(n,s);
-        solve(0,board,ans);
+        vector<string>temp(n);
+        for(int i=0;i<n;i++){
+            temp[i]=s;
+        }
+        solve(0,ans,temp,upperDiagonal,lowerDiagonal,left,n);
         return ans;
     }
 };
