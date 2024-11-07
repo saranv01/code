@@ -61,6 +61,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saranv01/code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/saranv01/code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/saranv01/code/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saranv01/code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranv01/code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saranv01/code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saranv01/code/tree/master/0169-majority-element) |
@@ -189,6 +190,7 @@
 | [0050-powx-n](https://github.com/saranv01/code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saranv01/code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saranv01/code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/saranv01/code/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saranv01/code/tree/master/0592-fraction-addition-and-subtraction) |
@@ -441,6 +443,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/saranv01/code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saranv01/code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saranv01/code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/saranv01/code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/saranv01/code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saranv01/code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/saranv01/code/tree/master/0496-next-greater-element-i) |
