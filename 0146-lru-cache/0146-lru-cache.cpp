@@ -94,10 +94,10 @@ void add(int key, int value) {
     while (current != r) {
         Ds* temp = current;
         current = current->next;
-        delete temp;  // Free memory for each node
+        delete temp;  
     }
-    delete f;  // Delete dummy head
-    delete r;  // Delete dummy tail
+    delete f; 
+    delete r;  
 }
 };
 
