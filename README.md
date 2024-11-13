@@ -113,6 +113,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/saranv01/code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/saranv01/code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saranv01/code/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/saranv01/code/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saranv01/code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saranv01/code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saranv01/code/tree/master/0229-majority-element-ii) |
@@ -469,6 +470,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/saranv01/code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/saranv01/code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saranv01/code/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/saranv01/code/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saranv01/code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/saranv01/code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saranv01/code/tree/master/0206-reverse-linked-list) |
@@ -499,6 +501,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/saranv01/code/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/saranv01/code/tree/master/0155-min-stack) |
 ## Topological Sort
 |  |
@@ -530,4 +533,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/saranv01/code/tree/master/0493-reverse-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/saranv01/code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
