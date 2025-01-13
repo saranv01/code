@@ -48,6 +48,7 @@
 | [0048-rotate-image](https://github.com/saranv01/code/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/saranv01/code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saranv01/code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/saranv01/code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saranv01/code/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saranv01/code/tree/master/0074-search-a-2d-matrix) |
@@ -259,6 +260,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saranv01/code/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saranv01/code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/saranv01/code/tree/master/0735-asteroid-collision) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/saranv01/code/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -393,6 +395,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/saranv01/code/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/saranv01/code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/saranv01/code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saranv01/code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saranv01/code/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/saranv01/code/tree/master/0130-surrounded-regions) |
