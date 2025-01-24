@@ -93,6 +93,7 @@
 | [1185-find-in-mountain-array](https://github.com/saranv01/code/tree/master/1185-find-in-mountain-array) |
 | [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
@@ -159,6 +160,7 @@
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/saranv01/code/tree/master/1300-critical-connections-in-a-network) |
+| [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
@@ -179,6 +181,7 @@
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/saranv01/code/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
@@ -341,6 +344,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Union Find
 |  |
@@ -351,6 +355,7 @@
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -412,6 +417,7 @@
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
 | [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
+| [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/saranv01/code/tree/master/1876-map-of-highest-peak) |
 ## Binary Search
