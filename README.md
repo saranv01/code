@@ -558,4 +558,8 @@
 |  |
 | ------- |
 | [2691-count-vowel-strings-in-ranges](https://github.com/saranv01/code/tree/master/2691-count-vowel-strings-in-ranges) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/saranv01/code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
