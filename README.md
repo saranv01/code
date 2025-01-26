@@ -213,6 +213,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saranv01/code/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/saranv01/code/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/saranv01/code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/saranv01/code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saranv01/code/tree/master/0070-climbing-stairs) |
@@ -239,6 +240,7 @@
 | [0008-string-to-integer-atoi](https://github.com/saranv01/code/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/saranv01/code/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/saranv01/code/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/saranv01/code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/saranv01/code/tree/master/0127-word-ladder) |
@@ -371,6 +373,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/saranv01/code/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saranv01/code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/saranv01/code/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/saranv01/code/tree/master/0455-assign-cookies) |
@@ -502,6 +505,7 @@
 | [0002-add-two-numbers](https://github.com/saranv01/code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saranv01/code/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saranv01/code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/saranv01/code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/saranv01/code/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/saranv01/code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saranv01/code/tree/master/0206-reverse-linked-list) |
