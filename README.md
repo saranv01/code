@@ -161,6 +161,7 @@
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/saranv01/code/tree/master/1300-critical-connections-in-a-network) |
 | [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/saranv01/code/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
@@ -182,6 +183,7 @@
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/saranv01/code/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/saranv01/code/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
@@ -369,6 +371,7 @@
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/saranv01/code/tree/master/1300-critical-connections-in-a-network) |
+| [1558-course-schedule-iv](https://github.com/saranv01/code/tree/master/1558-course-schedule-iv) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Greedy
 |  |
@@ -530,6 +533,7 @@
 | [0207-course-schedule](https://github.com/saranv01/code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saranv01/code/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/saranv01/code/tree/master/1558-course-schedule-iv) |
 ## Shortest Path
 |  |
 | ------- |
