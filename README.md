@@ -87,6 +87,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/saranv01/code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/saranv01/code/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
+| [0993-tallest-billboard](https://github.com/saranv01/code/tree/master/0993-tallest-billboard) |
 | [1002-maximum-width-ramp](https://github.com/saranv01/code/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/saranv01/code/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saranv01/code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -234,6 +235,7 @@
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/saranv01/code/tree/master/0650-2-keys-keyboard) |
+| [0993-tallest-billboard](https://github.com/saranv01/code/tree/master/0993-tallest-billboard) |
 ## Memoization
 |  |
 | ------- |
