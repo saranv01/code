@@ -80,6 +80,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/saranv01/code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/saranv01/code/tree/master/0643-maximum-average-subarray-i) |
+| [0721-accounts-merge](https://github.com/saranv01/code/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/saranv01/code/tree/master/0735-asteroid-collision) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
@@ -130,6 +131,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/saranv01/code/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/saranv01/code/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/saranv01/code/tree/master/0721-accounts-merge) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -157,6 +159,7 @@
 | [0207-course-schedule](https://github.com/saranv01/code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saranv01/code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/saranv01/code/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
@@ -180,6 +183,7 @@
 | [0210-course-schedule-ii](https://github.com/saranv01/code/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/saranv01/code/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/saranv01/code/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
@@ -258,6 +262,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/saranv01/code/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saranv01/code/tree/master/0592-fraction-addition-and-subtraction) |
+| [0721-accounts-merge](https://github.com/saranv01/code/tree/master/0721-accounts-merge) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saranv01/code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
@@ -312,6 +317,7 @@
 | [0242-valid-anagram](https://github.com/saranv01/code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/saranv01/code/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/saranv01/code/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -363,6 +369,7 @@
 | [0130-surrounded-regions](https://github.com/saranv01/code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saranv01/code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saranv01/code/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/saranv01/code/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/saranv01/code/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
