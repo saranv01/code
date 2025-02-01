@@ -104,6 +104,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saranv01/code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/saranv01/code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saranv01/code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3429-special-array-i](https://github.com/saranv01/code/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saranv01/code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saranv01/code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
