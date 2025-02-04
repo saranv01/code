@@ -104,6 +104,7 @@
 | [1876-map-of-highest-peak](https://github.com/saranv01/code/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saranv01/code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/saranv01/code/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/saranv01/code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saranv01/code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/saranv01/code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saranv01/code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
