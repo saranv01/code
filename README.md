@@ -139,6 +139,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saranv01/code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saranv01/code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saranv01/code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saranv01/code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -271,6 +272,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saranv01/code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saranv01/code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/saranv01/code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saranv01/code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/saranv01/code/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -365,6 +367,7 @@
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saranv01/code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Union Find
 |  |
 | ------- |
