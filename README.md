@@ -96,6 +96,7 @@
 | [1185-find-in-mountain-array](https://github.com/saranv01/code/tree/master/1185-find-in-mountain-array) |
 | [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
+| [1364-tuple-with-same-product](https://github.com/saranv01/code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -136,6 +137,7 @@
 | [0567-permutation-in-string](https://github.com/saranv01/code/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/saranv01/code/tree/master/0721-accounts-merge) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
+| [1364-tuple-with-same-product](https://github.com/saranv01/code/tree/master/1364-tuple-with-same-product) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -365,6 +367,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saranv01/code/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/saranv01/code/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
+| [1364-tuple-with-same-product](https://github.com/saranv01/code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saranv01/code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
