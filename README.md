@@ -99,6 +99,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1364-tuple-with-same-product](https://github.com/saranv01/code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saranv01/code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
@@ -473,6 +474,7 @@
 | [0907-koko-eating-bananas](https://github.com/saranv01/code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saranv01/code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/saranv01/code/tree/master/1185-find-in-mountain-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saranv01/code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 ## Number Theory
