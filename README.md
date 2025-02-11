@@ -102,6 +102,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saranv01/code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1748-best-team-with-no-conflicts](https://github.com/saranv01/code/tree/master/1748-best-team-with-no-conflicts) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1876-map-of-highest-peak](https://github.com/saranv01/code/tree/master/1876-map-of-highest-peak) |
@@ -254,6 +255,7 @@
 | [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/saranv01/code/tree/master/0650-2-keys-keyboard) |
 | [0993-tallest-billboard](https://github.com/saranv01/code/tree/master/0993-tallest-billboard) |
+| [1748-best-team-with-no-conflicts](https://github.com/saranv01/code/tree/master/1748-best-team-with-no-conflicts) |
 ## Memoization
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 | [0948-sort-an-array](https://github.com/saranv01/code/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1748-best-team-with-no-conflicts](https://github.com/saranv01/code/tree/master/1748-best-team-with-no-conflicts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/saranv01/code/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
