@@ -284,6 +284,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saranv01/code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/saranv01/code/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/saranv01/code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saranv01/code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/saranv01/code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/saranv01/code/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -302,6 +303,7 @@
 | [0054-spiral-matrix](https://github.com/saranv01/code/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saranv01/code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/saranv01/code/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/saranv01/code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/saranv01/code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/saranv01/code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/saranv01/code/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -514,6 +516,7 @@
 | [1002-maximum-width-ramp](https://github.com/saranv01/code/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saranv01/code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/saranv01/code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saranv01/code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2573-remove-nodes-from-linked-list](https://github.com/saranv01/code/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/saranv01/code/tree/master/2800-minimum-string-length-after-removing-substrings) |
