@@ -99,6 +99,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/saranv01/code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1364-tuple-with-same-product](https://github.com/saranv01/code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saranv01/code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/saranv01/code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranv01/code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saranv01/code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -264,6 +265,7 @@
 | [0650-2-keys-keyboard](https://github.com/saranv01/code/tree/master/0650-2-keys-keyboard) |
 | [0993-tallest-billboard](https://github.com/saranv01/code/tree/master/0993-tallest-billboard) |
 | [1250-longest-common-subsequence](https://github.com/saranv01/code/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saranv01/code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1748-best-team-with-no-conflicts](https://github.com/saranv01/code/tree/master/1748-best-team-with-no-conflicts) |
 ## Memoization
 |  |
@@ -472,6 +474,7 @@
 | [1073-number-of-enclaves](https://github.com/saranv01/code/tree/master/1073-number-of-enclaves) |
 | [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/saranv01/code/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/saranv01/code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/saranv01/code/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/saranv01/code/tree/master/1876-map-of-highest-peak) |
 ## Binary Search
