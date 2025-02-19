@@ -297,6 +297,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saranv01/code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/saranv01/code/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/saranv01/code/tree/master/1250-longest-common-subsequence) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/saranv01/code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saranv01/code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saranv01/code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/saranv01/code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -519,6 +520,7 @@
 | [0090-subsets-ii](https://github.com/saranv01/code/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/saranv01/code/tree/master/0131-palindrome-partitioning) |
 | [1331-path-with-maximum-gold](https://github.com/saranv01/code/tree/master/1331-path-with-maximum-gold) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/saranv01/code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
 |  |
 | ------- |
