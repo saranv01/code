@@ -38,9 +38,6 @@ public:
         }
         return a.second<b.second;
      });
-     for(auto it:vec){
-        cout<<it.first<<" "<<it.second<<endl;
-     }
     return vec[0].first;
     }
 };
