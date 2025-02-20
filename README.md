@@ -269,6 +269,7 @@
 | [0993-tallest-billboard](https://github.com/saranv01/code/tree/master/0993-tallest-billboard) |
 | [1250-longest-common-subsequence](https://github.com/saranv01/code/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saranv01/code/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saranv01/code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1748-best-team-with-no-conflicts](https://github.com/saranv01/code/tree/master/1748-best-team-with-no-conflicts) |
 ## Memoization
 |  |
@@ -425,6 +426,7 @@
 | [0801-is-graph-bipartite](https://github.com/saranv01/code/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/saranv01/code/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/saranv01/code/tree/master/1300-critical-connections-in-a-network) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saranv01/code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/saranv01/code/tree/master/1558-course-schedule-iv) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/saranv01/code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Greedy
@@ -598,6 +600,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/saranv01/code/tree/master/0744-network-delay-time) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saranv01/code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Biconnected Component
 |  |
 | ------- |
