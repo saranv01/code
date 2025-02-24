@@ -288,6 +288,7 @@
 | [0008-string-to-integer-atoi](https://github.com/saranv01/code/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/saranv01/code/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/saranv01/code/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saranv01/code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/saranv01/code/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/saranv01/code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/saranv01/code/tree/master/0125-valid-palindrome) |
@@ -453,6 +454,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saranv01/code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranv01/code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saranv01/code/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saranv01/code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/saranv01/code/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/saranv01/code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/saranv01/code/tree/master/0075-sort-colors) |
@@ -641,4 +643,8 @@
 | [0584-find-customer-referee](https://github.com/saranv01/code/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/saranv01/code/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/saranv01/code/tree/master/1908-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saranv01/code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
