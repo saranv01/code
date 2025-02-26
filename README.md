@@ -73,6 +73,7 @@
 | [0229-majority-element-ii](https://github.com/saranv01/code/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saranv01/code/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saranv01/code/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/saranv01/code/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/saranv01/code/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/saranv01/code/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/saranv01/code/tree/master/0455-assign-cookies) |
@@ -267,6 +268,7 @@
 | [0213-house-robber-ii](https://github.com/saranv01/code/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/saranv01/code/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/saranv01/code/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/saranv01/code/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/saranv01/code/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/saranv01/code/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/saranv01/code/tree/master/0542-01-matrix) |
